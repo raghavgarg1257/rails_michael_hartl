@@ -8,6 +8,8 @@ end
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.6'
+# cryptographic library
+gem 'bcrypt', '3.1.12'
 # Bootstrap for styling
 gem 'bootstrap-sass', '3.3.7'
 # Use sqlite3 as the database for Active Record
