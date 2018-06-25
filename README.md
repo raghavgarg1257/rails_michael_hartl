@@ -39,3 +39,21 @@ $ rails server
 
 For more information, see the
 [*Ruby on Rails Tutorial* book](http://www.railstutorial.org/book).
+
+
+## Completed Chapters
+
+1. [From zero to deploy](https://www.railstutorial.org/book/beginning)
+2. [A toy app](https://www.railstutorial.org/book/toy_app)
+3. [Mostly static pages](https://www.railstutorial.org/book/static_pages)
+4. [Rails-flavored Ruby](https://www.railstutorial.org/book/rails_flavored_ruby)
+5. [Filling in the layout](https://www.railstutorial.org/book/filling_in_the_layout)
+6. []()
+7. []()
+8. []()
+9. []()
+10. []()
+11. []()
+12. []()
+13. []()
+14. []()
