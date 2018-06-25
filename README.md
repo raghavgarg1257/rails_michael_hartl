@@ -44,23 +44,23 @@ For more information, see the
 ## Completed Chapters
 
 1. From zero to deploy
-  - [Link to book](https://www.railstutorial.org/book/beginning)
+    - [Link to book](https://www.railstutorial.org/book/beginning)
 
 2. A toy app
-  - [Link to book](https://www.railstutorial.org/book/toy_app)
+    - [Link to book](https://www.railstutorial.org/book/toy_app)
 
 3. Mostly static pages
-  - [Link to book](https://www.railstutorial.org/book/static_pages)
-  - [Branch](https://github.com/raghavgarg1257/rails_michael_hartl/tree/static-pages) - `static-pages`
+    - [Link to book](https://www.railstutorial.org/book/static_pages)
+    - [Branch](https://github.com/raghavgarg1257/rails_michael_hartl/tree/static-pages) - `static-pages`
 
 4. Rails-flavored Ruby
-  - [Link to book](https://www.railstutorial.org/book/rails_flavored_ruby)
-  - [Branch](https://github.com/raghavgarg1257/rails_michael_hartl/tree/rails-flavored-ruby) - `rails-flavored-ruby`
+    - [Link to book](https://www.railstutorial.org/book/rails_flavored_ruby)
+    - [Branch](https://github.com/raghavgarg1257/rails_michael_hartl/tree/rails-flavored-ruby) - `rails-flavored-ruby`
 
 5. Filling in the layout
-  - [Link to book](https://www.railstutorial.org/book/filling_in_the_layout)
-  - [Branch](https://github.com/raghavgarg1257/rails_michael_hartl/tree/filling-in-layout) - `filling-in-layout`
+    - [Link to book](https://www.railstutorial.org/book/filling_in_the_layout)
+    - [Branch](https://github.com/raghavgarg1257/rails_michael_hartl/tree/filling-in-layout) - `filling-in-layout`
 
 6. Modeling users
-  - [Link to book](https://www.railstutorial.org/book/modeling_users)
-  - [Branch](https://github.com/raghavgarg1257/rails_michael_hartl/tree/modeling-users) - `modeling-users`
+    - [Link to book](https://www.railstutorial.org/book/modeling_users)
+    - [Branch](https://github.com/raghavgarg1257/rails_michael_hartl/tree/modeling-users) - `modeling-users`
