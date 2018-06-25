@@ -44,48 +44,23 @@ For more information, see the
 ## Completed Chapters
 
 1. From zero to deploy
-    - [Link to book](https://www.railstutorial.org/book/beginning)
+  - [Link to book](https://www.railstutorial.org/book/beginning)
 
 2. A toy app
-    - [Link to book](https://www.railstutorial.org/book/toy_app)
+  - [Link to book](https://www.railstutorial.org/book/toy_app)
 
 3. Mostly static pages
-    - [Link to book](https://www.railstutorial.org/book/static_pages)
-    - [Branch](https://github.com/raghavgarg1257/rails_michael_hartl/tree/static-pages) - `static-pages`
+  - [Link to book](https://www.railstutorial.org/book/static_pages)
+  - [Branch](https://github.com/raghavgarg1257/rails_michael_hartl/tree/static-pages) - `static-pages`
 
 4. Rails-flavored Ruby
-    - [Link](https://www.railstutorial.org/book/rails_flavored_ruby)
-    - [Branch](https://github.com/raghavgarg1257/rails_michael_hartl/tree/rails-flavored-ruby) - `rails-flavored-ruby`
-    
+  - [Link to book](https://www.railstutorial.org/book/rails_flavored_ruby)
+  - [Branch](https://github.com/raghavgarg1257/rails_michael_hartl/tree/rails-flavored-ruby) - `rails-flavored-ruby`
+
 5. Filling in the layout
-    - [Link](https://www.railstutorial.org/book/filling_in_the_layout)
-    - [Branch](https://github.com/raghavgarg1257/rails_michael_hartl/tree/filling-in-layout) - `filling-in-layout`
-    
+  - [Link to book](https://www.railstutorial.org/book/filling_in_the_layout)
+  - [Branch](https://github.com/raghavgarg1257/rails_michael_hartl/tree/filling-in-layout) - `filling-in-layout`
+
 6. Modeling users
-    - [Link](https://www.railstutorial.org/book/modeling_users)
-    - [Branch](https://github.com/raghavgarg1257/rails_michael_hartl/tree/modeling-users) - `modeling-users`
-    
-7. Sign Up
-    - [Link](https://www.railstutorial.org/book/sign_up)
-    
-8. Basic Login
-    - [Link](https://www.railstutorial.org/book/basic_login)
-    
-9. Advanced login
-    - [Link](https://www.railstutorial.org/book/advanced_login)
-    
-10. Updating, showing, and deleting users
-    - [Link](https://www.railstutorial.org/book/updating_and_deleting_users)
-    
-11. Account activation
-    - [Link](https://www.railstutorial.org/book/account_activation)
-    
-12. Password reset
-    - [Link](https://www.railstutorial.org/book/password_reset)
-    
-13. User microposts
-    - [Link](https://www.railstutorial.org/book/user_microposts)
-    
-14. Following users
-    - [Link](https://www.railstutorial.org/book/following_users)
-    
+  - [Link to book](https://www.railstutorial.org/book/modeling_users)
+  - [Branch](https://github.com/raghavgarg1257/rails_michael_hartl/tree/modeling-users) - `modeling-users`
